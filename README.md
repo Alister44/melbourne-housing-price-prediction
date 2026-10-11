@@ -13,6 +13,7 @@ and how accurately can we predict it?
 
 ## Dataset
 - Source: [Melbourne Housing Snapshot (Kaggle)](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
+- Full column descriptions: [Data Dictionary](docs/data_dictionary.md)
 - File: `data/melb_data.csv`
 - Target: `Price`
 - Features: rooms, property type, distance to CBD, land size, year built,
