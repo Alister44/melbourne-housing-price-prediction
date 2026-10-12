@@ -18,6 +18,8 @@ and how accurately can we predict it?
 - Target: `Price`
 - Features: rooms, property type, distance to CBD, land size, year built,
   suburb/region, sale method and date
+  
+  - **Period:** 2016-01-28 to 2017-09-23 (based on `Date`)
 
 ## Tools
 Python (pandas, NumPy, matplotlib, scikit-learn), Google Colab, GitHub
