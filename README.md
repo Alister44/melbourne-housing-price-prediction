@@ -70,7 +70,6 @@ melbourne-housing-price-prediction/
 │   └── data_dictionary.md
 ├── notebooks/
 │   └── housing_price_prediction.ipynb
-├── requirements.txt
 └── README.md
 ```
 
