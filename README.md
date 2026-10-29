@@ -67,8 +67,7 @@ melbourne-housing-price-prediction/
 ├── data/
 │   └── melb_data_raw.csv
 ├── docs/
-│   ├── data_dictionary.md
-│   └── project_plan.md
+│   └── data_dictionary.md
 ├── notebooks/
 │   └── housing_price_prediction.ipynb
 ├── requirements.txt
